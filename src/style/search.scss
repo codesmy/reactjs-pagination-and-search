@@ -1,0 +1,25 @@
+.search {
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 632px;
+    background: #5A5C66;
+    display: flex;
+    input {
+        padding: 18px 36px;
+        width: 100%;
+        background: #5A5C66;
+        border: none;
+        outline: none;
+        color: #fff;
+        &::placeholder {
+            color: #B2B7BF;
+        }
+    }
+    .searchBtn {
+        padding: 15px;
+        background: #5A5C66;
+        border: none;
+        outline: none;
+        cursor: pointer;
+    }
+}
