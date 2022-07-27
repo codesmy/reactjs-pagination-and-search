@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-pagination-and-search/static/css/main.80c4f32e.css",
+    "main.js": "/reactjs-pagination-and-search/static/js/main.edd8d4d0.js",
+    "index.html": "/reactjs-pagination-and-search/index.html",
+    "main.80c4f32e.css.map": "/reactjs-pagination-and-search/static/css/main.80c4f32e.css.map",
+    "main.edd8d4d0.js.map": "/reactjs-pagination-and-search/static/js/main.edd8d4d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c4f32e.css",
+    "static/js/main.edd8d4d0.js"
+  ]
+}
